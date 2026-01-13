@@ -69,8 +69,8 @@ export default {
 				sm: 'calc(var(--radius) - 4px)'
 			},
 			fontFamily: {
-				sans: ['Inter', 'sans-serif'],
-				heading: ['Rubik', 'sans-serif'],
+				sans: ['Open Sans', 'sans-serif'],
+				heading: ['Montserrat', 'sans-serif'],
 			},
 			keyframes: {
 				'accordion-down': {
